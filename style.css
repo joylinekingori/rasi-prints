@@ -426,7 +426,7 @@
 
 .contact-us h1 {
     font-size: 280%;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 
@@ -438,7 +438,7 @@
 
 @media only screen and (max-width: 415px) {
     .text-main {
-    
+
         background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/rasi\ pic\ three.jpg);
         background-repeat: no-repeat;
         color: white;
@@ -448,9 +448,10 @@
         width: 100%;
         text-align: center;
         margin-bottom: 70px;
-    
-    
+
+
     }
+
     #rasi-export {
         text-align: center;
         font-size: 120%;
@@ -458,6 +459,7 @@
         padding: 1px;
         color: white;
     }
+
     #home {
         flex-direction: row;
         text-decoration: none;
@@ -466,6 +468,7 @@
 
         font-family: Arial, Helvetica, sans-serif
     }
+
     .navigation-bar {
         font-size: 30%;
         justify-content: center;
@@ -474,20 +477,23 @@
         color: white;
         text-decoration: none;
         padding-top: 100px;
-    
+
     }
+
     .text-main p {
         font-size: 250%;
     }
-    
+
     .text-main h1 {
         font-size: 450%;
         margin-top: 50px;
     }
+
     .screen {
         font-size: 180%;
         text-align: center;
     }
+
     /* .pillow-one {
         height: 60px;
         width: 50px;
@@ -498,99 +504,100 @@
     .pillow-one img {
         border-radius: 10px;
         margin-left: px;
-        width:100%
-    
-    
+        width: 100%
     }
-    
+
     .section-two {
         display: flex;
-        flex-wrap:wrap ;
+        flex-wrap: wrap;
         font-size: 90%;
         margin-top: 50px;
     }
-    
+
     .artistry {
-        margin-left:20px;
-        
+        margin-left: 20px;
+
     }
-    
+
     .artistry h3 {
-    
+
         font-size: 200%;
     }
-    
+
     .artistry h6 {
-    
+
         font-size: 100%;
     }
-    
+
     .artistry p {
-    
+
         font-size: 100%;
         color: green;
     }
 
     .rasi-values {
-    flex-wrap: wrap;
-    gap: 20px;
-    margin-top: 40px;
-    
-   
+        flex-wrap: wrap;
+        gap: 20px;
+        margin-top: 40px;
+
+
     }
+
     .quality {
         gap: 2px;
     }
-    
+
     .verify {
         width: 50px;
         height: 50px;
         margin-top: 20px;
     }
-    
+
     .warranty {
         display: flex;
         gap: 10px;
     }
-    
+
     .shipping {
         width: 50px;
         height: 50px;
         margin-top: 20px;
     }
-    
+
     .time {
         display: flex;
         gap: 10px;
     }
-    
+
     .customer-care {
         width: 50px;
         height: 50px;
         margin-top: 20px;
     }
-    
+
     .sustainable {
         display: flex;
         gap: 10px;
     }
+
     .techniques {
         text-align: center;
-    
+
     }
-    
+
     .techniques h2 {
         font-size: 200%;
         text-align: center;
-    
+
     }
-    
+
     .techniques p {
         font-size: 90%;
         text-align: center;
         color: gray;
-    
+
     }
+
     .screen-printing {
         flex-wrap: wrap;
         justify-content: space-between;
@@ -599,132 +606,140 @@
         gap: 100px;
         margin-left: 400px;
         margin-top: 100px;
-    
-    
-    }.client {
+
+
+    }
+
+    .client {
         text-align: center;
         margin-top: 50px;
-    
+
     }
-    
+
     .client h2 {
         font-size: 200%;
         text-align: center;
-    
+
     }
-    
+
     .client p {
         font-size: 100%;
         text-align: center;
         color: gray;
-    
+
     }
+
     .aditya {
         display: flex;
         gap: 30px;
         font-size: 120%
     }
-    
+
     .aditya img {
-        width:70px;
+        width: 70px;
         height: 70px;
         border-radius: 20px;
-    
+
     }
-    
+
     .client-companies {
         flex-wrap: wrap;
         justify-content: center;
         gap: 0px;
         margin-top: 100px;
     }
+
     .printing-quality {
         flex-wrap: wrap;
         justify-content: center;
         margin-top: 100px;
         gap: 5px;
-    
+
     }
-    
-    
-    
+
+
+
     .printing-quality img {
         border-radius: 20px;
         width: 300px;
         height: 300px;
-    
+
     }
+
     .feedback {
         margin-bottom: 80px;
-        margin:  0 auto;
+        margin: 0 auto;
     }
-    
+
     .feedback h1 {
         font-size: 200%;
-    
-    
+
+
     }
-    
+
     .feedback p {
         font-size: 110%;
-    
+
     }
+
     .logo-images {
         display: flex;
-       
-        
+
+
         gap: 9px;
         margin-left: 20px;
         margin-top: 100px;
-    
-    
-    
+
+
+
     }
-    .logo-images img{
+
+    .logo-images img {
         width: 45px;
         height: 45px;
     }
+
     .rasi-works {
         text-align: center;
         margin-top: 70px;
         margin-bottom: 100px;
-    
+
     }
-    
+
     .rasi-works h2 {
         font-size: 200%;
         text-align: center;
         font-family: Arial, Helvetica, sans-serif;
-    
+
     }
-    
+
     .rasi-works p {
         font-size: 90%;
         text-align: center;
         color: gray;
-    
+
     }
+
     .sample-photos {
         height: 50px;
         width: 50px;
         flex-wrap: wrap;
         gap: 50px;
-        margin-left: ;
-    
+
+
     }
-    
+
     .sample-photos img {
         border-radius: 20px;
-    
+
     }
-    
-    
-    
-    
-    
-    
+
+
+
+
+
+
 
 
 
 }
-
